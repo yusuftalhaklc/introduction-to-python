@@ -1,0 +1,4 @@
+For 'Yusuf' system was showing <class 'ValueError'>
+For '0' system was showing <class 'ZeroDivisionError'>
+For 'Yusuf' system was showing <class 'ValueError'>
+For '0' system was showing <class 'ZeroDivisionError'>
